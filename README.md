@@ -1,1 +1,2 @@
 # language.py
+print("first")
